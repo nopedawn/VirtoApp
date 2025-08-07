@@ -3,7 +3,7 @@
 
 <br>
   <div style="text-align:center">
-  <img src="images/VirtoApp-Logo.png" width="150">
+  <img src="https://raw.githubusercontent.com/nopedawn/VirtoApp/refs/heads/main/images/VirToApp-Logo.png" width="150">
   </div>
 <br>
 
