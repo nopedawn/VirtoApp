@@ -9,7 +9,7 @@
 
 
 # VirtoApp
-VirTo App is a process monitoring tool designed to improve system security by analyzing running processes. It provides a dashboard for viewing new, trusted, and malicious processes. The Scan feature offers detailed file and URL scanning capabilities and provides updates with the latest CVE news.
+VirTo App is a process monitoring tool designed to improve system security by analyzing running processes. It provides a Dashboard for viewing New, Trusted, and Malicious processes. The Scan feature offers detection, detailed File and URL scanning capabilities with AI summarization and provides updates with the latest CVE news.
 
 
 # Features
