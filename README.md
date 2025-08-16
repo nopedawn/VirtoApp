@@ -26,11 +26,11 @@ VirTo App is a process monitoring tool designed to improve system security by an
 - Google AI Studio API [(see more)](https://aistudio.google.com/app/apikey)
 
 ## Step
-First, download the latest [release](https://github.com/nopedawn/VirtoApp/releases) from this repository. This contains the installation file. Then, you can directly install it.
+First, download the latest [release](https://github.com/nopedawn/VirtoApp/releases/latest) from this repository. This contains the installation file. Then, you can directly install it.
 
 1. Run 
-   - `VirtoApp-1.0.0-x64.msi` (64 bit)
-   - `VirtoApp-1.0.0-x86.msi` (32 bit)
+   - `VirtoApp-x.x.x-x64.msi` (64 bit)
+   - `VirtoApp-x.x.x-x86.msi` (32 bit)
 2. **Dashboard:**
    - Process Monitoring Completed
      - Trust all / Details
